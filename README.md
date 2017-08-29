@@ -13,12 +13,12 @@ At this moment don't support dynamic textLayers, but you could reach all layers 
 
 ```coffeescript
 glitchA = new GlitchContainer
-	layer: layerA #Your layer here
-	speed: 40 #Speed of requestAnimationFrame updating
-	stereoGlith: true #Switch on red and blue filtered layers
+    layer: layerA #Your layer here
+    speed: 40 #Speed of requestAnimationFrame updating
+    stereoGlith: true #Switch on red and blue filtered layers
     stereoOffsetX: 20 #Offset of red and blue filtered layers
     stereoOffsetY: 10
-	blink: 0.6 #Correction coefficient for blinking 
+    blink: 0.6 #Correction coefficient for blinking 
 
 glitchA.imgNoise() #Adding extra-layer "imgNoiseLayer" with base64 image
 
