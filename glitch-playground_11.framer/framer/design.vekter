@@ -1,0 +1,1251 @@
+{
+  "version" : 2,
+  "root" : {
+    "id" : "&E@ynjd:",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "DBx:$4UM",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "&E@ynjd:",
+        "width" : 375,
+        "y" : -1,
+        "deviceType" : "apple-iphone-7-black",
+        "type" : "apple-iphone-7-black",
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.5,
+            "parentid" : "DBx:$4UM",
+            "rotation" : 0,
+            "top" : 171,
+            "right" : null,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 5,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "SIZE:81",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "COLOR:rgb(255, 255, 255)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "FONT:Arial-BoldMT",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "SIZE:16",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(255, 255, 255)",
+                      "FONT:Arial-BoldMT"
+                    ]
+                  },
+                  "text" : "GLTCH",
+                  "key" : "2ppu4",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : "glitch-text",
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "q6STkd?5",
+            "x" : 79,
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : null,
+            "height" : 97,
+            "opacity" : 1,
+            "width" : 274,
+            "widthFactor" : null,
+            "targetName" : "glitch_text",
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.3290854572713643,
+            "autoSize" : true,
+            "y" : 257
+          },
+          {
+            "radiusBottomLeft" : 20,
+            "rotation" : 0,
+            "__class" : "RectangleNode",
+            "id" : "K'S82|D0",
+            "fillColor" : "rgb(242, 255, 0)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 55,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 20,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.3093333333333333,
+            "borderPerSide" : false,
+            "fillType" : "color",
+            "radiusBottomRight" : 20,
+            "children" : [
+
+            ],
+            "fillEnabled" : true,
+            "parentid" : "DBx:$4UM",
+            "borderRight" : 1,
+            "name" : "ric1",
+            "height" : 94,
+            "borderWidth" : 1,
+            "top" : 44,
+            "borderTop" : 1,
+            "radiusTopRight" : 20,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : null,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.136431784107946,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 20,
+            "targetName" : "ric1",
+            "bottom" : null,
+            "width" : 122
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.508,
+            "parentid" : "DBx:$4UM",
+            "rotation" : 0,
+            "top" : 296,
+            "right" : null,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 39,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 39,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 39,
+                      "style" : "COLOR:rgb(255, 255, 255)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 39,
+                      "style" : "FONT:PTMono-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 39,
+                      "style" : "SIZE:12",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 39,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(255, 255, 255)",
+                      "FONT:PTMono-Regular",
+                      "SIZE:12",
+                      "ALIGN:center"
+                    ]
+                  },
+                  "text" : "Controls example for the text and image",
+                  "key" : "bdt54",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "PkLxc8G`",
+            "x" : 131,
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : null,
+            "height" : 14,
+            "opacity" : 0.58,
+            "width" : 282,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.4542728635682159,
+            "autoSize" : true,
+            "y" : 310
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.7346666666666667,
+            "parentid" : "DBx:$4UM",
+            "rotation" : 0,
+            "top" : null,
+            "right" : 54,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 15,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 15,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 15,
+                      "style" : "COLOR:rgb(255, 255, 255)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 15,
+                      "style" : "FONT:PTMono-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 15,
+                      "style" : "SIZE:10",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 15,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(255, 255, 255)",
+                      "FONT:PTMono-Regular",
+                      "SIZE:10",
+                      "ALIGN:center"
+                    ]
+                  },
+                  "text" : "Stereo offset Y",
+                  "key" : "bdt54",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "e~Qd^BcZ",
+            "x" : 131,
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : 270,
+            "height" : 12,
+            "opacity" : 1,
+            "width" : 91,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.5862068965517241,
+            "autoSize" : true,
+            "y" : 310
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.2693333333333333,
+            "parentid" : "DBx:$4UM",
+            "rotation" : 0,
+            "top" : null,
+            "right" : null,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 13,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 13,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 13,
+                      "style" : "COLOR:rgb(255, 255, 255)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 13,
+                      "style" : "FONT:PTMono-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 13,
+                      "style" : "SIZE:10",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 13,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(255, 255, 255)",
+                      "FONT:PTMono-Regular",
+                      "SIZE:10",
+                      "ALIGN:center"
+                    ]
+                  },
+                  "text" : "Stereo glitch",
+                  "key" : "bdt54",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 6,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "COLOR:rgb(255, 255, 255)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "FONT:PTMono-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "SIZE:10",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(255, 255, 255)",
+                      "FONT:PTMono-Regular",
+                      "SIZE:10",
+                      "ALIGN:center"
+                    ]
+                  },
+                  "text" : "effect",
+                  "key" : "cd8ft",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : true,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(77, 77, 77, 0.25)"
+              }
+            ],
+            "id" : "FDG`r_`w",
+            "x" : 131,
+            "constraintsLocked" : false,
+            "left" : 33,
+            "bottom" : 294,
+            "height" : 28,
+            "opacity" : 1,
+            "width" : 136,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.5382308845577212,
+            "autoSize" : false,
+            "y" : 310
+          },
+          {
+            "radiusBottomLeft" : 10,
+            "rotation" : 0,
+            "__class" : "RectangleNode",
+            "id" : "Y'y,B$%D",
+            "fillColor" : "rgba(0,170,255,0.5)",
+            "aspectRatioLocked" : true,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 31,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 10,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.1226666666666667,
+            "borderPerSide" : false,
+            "fillType" : "color",
+            "radiusBottomRight" : 10,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 2.416666666666667,
+                "parentid" : "Y'y,B$%D",
+                "rotation" : 0,
+                "top" : 3,
+                "right" : -76,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 11,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 11,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 11,
+                          "style" : "COLOR:rgb(255, 255, 255)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 11,
+                          "style" : "FONT:PTMono-Regular",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 11,
+                          "style" : "SIZE:10",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 11,
+                          "style" : "ALIGN:center",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "COLOR:rgb(255, 255, 255)",
+                          "FONT:PTMono-Regular",
+                          "SIZE:10",
+                          "ALIGN:center"
+                        ]
+                      },
+                      "text" : "Image noise",
+                      "key" : "bdt54",
+                      "type" : "unstyled"
+                    },
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 5,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "COLOR:rgb(255, 255, 255)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "FONT:PTMono-Regular",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "SIZE:10",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "ALIGN:center",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "COLOR:rgb(255, 255, 255)",
+                          "FONT:PTMono-Regular",
+                          "SIZE:10",
+                          "ALIGN:center"
+                        ]
+                      },
+                      "text" : "layer",
+                      "key" : "5l9se",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : "noiseCheckText",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "ZE.NEpaZ",
+                "x" : 131,
+                "constraintsLocked" : false,
+                "left" : null,
+                "bottom" : 3,
+                "height" : 24,
+                "opacity" : 1,
+                "width" : 67,
+                "widthFactor" : null,
+                "targetName" : "noiseCheckText",
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.5,
+                "autoSize" : false,
+                "y" : 310
+              },
+              {
+                "radiusBottomLeft" : 20,
+                "rotation" : 42,
+                "__class" : "RectangleNode",
+                "id" : "0+,!P7a:",
+                "fillColor" : "rgb(61, 255, 161)",
+                "aspectRatioLocked" : false,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : null,
+                "locked" : false,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "radius" : 20,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.5166666666666667,
+                "borderPerSide" : false,
+                "fillType" : "color",
+                "radiusBottomRight" : 20,
+                "children" : [
+
+                ],
+                "fillEnabled" : true,
+                "parentid" : "Y'y,B$%D",
+                "borderRight" : 1,
+                "name" : "noiseCheckEl",
+                "height" : 29,
+                "borderWidth" : 1,
+                "top" : 1,
+                "borderTop" : 1,
+                "radiusTopRight" : 20,
+                "borderBottom" : 1,
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : null,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.5166666666666667,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "radiusTopLeft" : 20,
+                "targetName" : "noiseCheckEl",
+                "bottom" : 0,
+                "width" : 3
+              }
+            ],
+            "fillEnabled" : true,
+            "parentid" : "DBx:$4UM",
+            "borderRight" : 1,
+            "name" : "noiseCheck",
+            "height" : 30,
+            "borderWidth" : 1,
+            "top" : null,
+            "borderTop" : 1,
+            "radiusTopRight" : 10,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : null,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.8920539730134932,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 10,
+            "targetName" : "noiseCheck",
+            "bottom" : 57,
+            "width" : 30
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.5,
+            "parentid" : "DBx:$4UM",
+            "rotation" : 0,
+            "top" : null,
+            "right" : null,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 5,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "COLOR:rgb(255, 255, 255)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "FONT:PTMono-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "SIZE:10",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(255, 255, 255)",
+                      "FONT:PTMono-Regular",
+                      "SIZE:10",
+                      "ALIGN:center"
+                    ]
+                  },
+                  "text" : "Speed",
+                  "key" : "bdt54",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "ei#}{[Xa",
+            "x" : 131,
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : 203,
+            "height" : 12,
+            "opacity" : 1,
+            "width" : 31,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.6866566716641679,
+            "autoSize" : true,
+            "y" : 310
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.5,
+            "parentid" : "DBx:$4UM",
+            "rotation" : 0,
+            "top" : null,
+            "right" : null,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 5,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "COLOR:rgb(255, 255, 255)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "FONT:PTMono-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "SIZE:10",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(255, 255, 255)",
+                      "FONT:PTMono-Regular",
+                      "SIZE:10",
+                      "ALIGN:center"
+                    ]
+                  },
+                  "text" : "Blink",
+                  "key" : "bdt54",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "CI6w3$6]",
+            "x" : 131,
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : 149,
+            "height" : 12,
+            "opacity" : 1,
+            "width" : 31,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.767616191904048,
+            "autoSize" : true,
+            "y" : 310
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.7226666666666667,
+            "parentid" : "DBx:$4UM",
+            "rotation" : 0,
+            "top" : null,
+            "right" : 48,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 23,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 23,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 23,
+                      "style" : "COLOR:rgb(255, 255, 255)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 23,
+                      "style" : "FONT:PTMono-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 23,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 23,
+                      "style" : "SIZE:8",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(255, 255, 255)",
+                      "FONT:PTMono-Regular",
+                      "ALIGN:center",
+                      "SIZE:8"
+                    ]
+                  },
+                  "text" : "Any prop, e.g. “height\"",
+                  "key" : "bdt54",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "*ac%jf1q",
+            "x" : 131,
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : 86,
+            "height" : 9,
+            "opacity" : 1,
+            "width" : 112,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.8643178410794603,
+            "autoSize" : true,
+            "y" : 310
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.7346666666666667,
+            "parentid" : "DBx:$4UM",
+            "rotation" : 0,
+            "top" : null,
+            "right" : 54,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 15,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 15,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 15,
+                      "style" : "COLOR:rgb(255, 255, 255)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 15,
+                      "style" : "FONT:PTMono-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 15,
+                      "style" : "SIZE:10",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 15,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(255, 255, 255)",
+                      "FONT:PTMono-Regular",
+                      "SIZE:10",
+                      "ALIGN:center"
+                    ]
+                  },
+                  "text" : "Stereo offset X",
+                  "key" : "bdt54",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "]ni,$,[p",
+            "x" : 131,
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : 323,
+            "height" : 12,
+            "opacity" : 1,
+            "width" : 91,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.5067466266866567,
+            "autoSize" : true,
+            "y" : 310
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.2693333333333333,
+            "parentid" : "DBx:$4UM",
+            "rotation" : 0,
+            "top" : null,
+            "right" : null,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 39,
+                      "style" : "FONT:PTMono-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 39,
+                      "style" : "COLOR:rgb(255, 255, 255)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 39,
+                      "style" : "SIZE:11",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 39,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:PTMono-Regular",
+                      "COLOR:rgb(255, 255, 255)",
+                      "SIZE:11",
+                      "ALIGN:center"
+                    ]
+                  },
+                  "text" : "(on or off option from object creation)",
+                  "key" : "far4p",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "w{D;NUq`",
+            "constraintsLocked" : false,
+            "left" : 33,
+            "bottom" : 253,
+            "height" : 41,
+            "opacity" : 0.44,
+            "width" : 136,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.5899550224887556,
+            "autoSize" : false
+          }
+        ],
+        "height" : 667,
+        "fillType" : "color",
+        "targetName" : null,
+        "fillColor" : "rgb(0, 0, 0)",
+        "name" : null
+      }
+    ]
+  }
+}
