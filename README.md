@@ -36,4 +36,4 @@ glitchA.stereoOffsetY = 70
 
 ### Any questions or wishes
 
-[open an issue](https://github.com/markdown-it/markdown-it) | [catch me on facebook](https://www.facebook.com/pavel.laptev.94) | [write me email](mailto:graphics.dario@gmail.com)
+[open an issue](https://github.com/markdown-it/markdown-it) or [catch me on facebook](https://www.facebook.com/pavel.laptev.94) also you can [write me email](mailto:graphics.dario@gmail.com)
