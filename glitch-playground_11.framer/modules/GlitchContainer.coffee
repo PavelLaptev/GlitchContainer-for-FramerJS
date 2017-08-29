@@ -100,8 +100,6 @@ class exports.GlitchContainer extends Layer
 			"top": -stereoOffsetY + "px"
 		layerRed.sendToBack()
 		
-		layerBlue.style.left = @stereoOffsetX + "px"
-		
 		opacityArr = [0.9, 0.98, 1, 0.4, 0.5, 0.8]
 		arr = []
 		arr.push(layer, layerBlue, layerRed)
@@ -127,6 +125,7 @@ class exports.GlitchContainer extends Layer
 			layerRed: @layerRed = layerRed
 		}
 	
+	##### --------- #####
 	imgNoise: (newNoiseImg) ->
 		imgNoiseLayer = new Layer
 		imgNoiseLayer.props =
