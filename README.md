@@ -9,7 +9,7 @@ This module using ```CSS filters```, ```copy()``` method for layers and ```reque
 
 A Fan overclocking alert! Don't overuse this container :-)
 
-At this moment don't support dynamic textLayers, but you could reach all layers separately by name outside the class, like glitchA.layerRed.text = "example".
+At this moment don't support dynamic textLayers, but you could reach all layers separately by name outside the class, like ```glitchA.layerRed.text = "example"```.
 
 ```coffeescript
 glitchA = new GlitchContainer
