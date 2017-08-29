@@ -1,6 +1,6 @@
 # Glitch Container
 
-A simple way to add glitch effect to your layer. Works with any layers.
+A simple way to add glitch effect to your prototypes. Works with any layers.
 
 This module using ```CSS filters```, ```copy()``` method for layers and ```requestAnimationFrame```
 
