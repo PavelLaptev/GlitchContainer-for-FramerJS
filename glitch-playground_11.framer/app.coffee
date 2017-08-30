@@ -36,7 +36,6 @@ glitchC = new GlitchContainer
 glitchC.imgNoise()
 glitchC.draggable = true
 
-
 #*******************************#
 ########### CONTROLS ############
 #*******************************#

@@ -23,7 +23,6 @@ class exports.GlitchContainer extends Layer
 	@define "stereoOffsetX",
 		get: -> if @layerBlue?
 			@layerBlue.style.left
-			@layerBlue.style.left
 		set: (value) -> if @layerBlue?
 			@layerBlue.style.left = value + "px"
 			@layerRed.style.left = -value + "px"
@@ -31,7 +30,6 @@ class exports.GlitchContainer extends Layer
 	@define "stereoOffsetY",
 		get: -> if @layerBlue?
 			@layerBlue.style.top
-			@layerRed.style.top
 		set: (value) -> if @layerBlue?
 			@layerBlue.style.top = value + "px"
 			@layerRed.style.top = -value + "px"
