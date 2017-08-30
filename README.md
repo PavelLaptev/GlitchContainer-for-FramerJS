@@ -11,6 +11,8 @@ A Fan overclocking alert! Don't overuse this container :-)
 
 At this moment don't support dynamic textLayers, but you could reach all layers separately by name outside the class, like ```glitchA.layerRed.text = "example"```.
 
+Also, you can create GlitchContainer from the group of layers.
+
 ```coffeescript
 glitchA = new GlitchContainer
     layer: layerA #Your layer here

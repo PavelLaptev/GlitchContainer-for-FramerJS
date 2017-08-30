@@ -72,7 +72,7 @@ class exports.GlitchContainer extends Layer
 	
 	##### --------- #####
 	stereoGlith: (parent, layer, stereoOffsetX, stereoOffsetY) ->
-		layerBlue = layer.copySingle()
+		layerBlue = layer.copy()
 		layerBlue.props =
 			parent: layer
 			opacity: 0.8
@@ -86,7 +86,7 @@ class exports.GlitchContainer extends Layer
 			"top": stereoOffsetY + "px"
 		layerBlue.sendToBack()
 		
-		layerRed = layer.copySingle()
+		layerRed = layer.copy()
 		layerRed.props =
 			parent: layer
 			opacity: 0.8
@@ -99,6 +99,8 @@ class exports.GlitchContainer extends Layer
 			"left": -stereoOffsetX + "px"
 			"top": -stereoOffsetY + "px"
 		layerRed.sendToBack()
+		
+		layerBlue.style.left = @stereoOffsetX + "px"
 		
 		opacityArr = [0.9, 0.98, 1, 0.4, 0.5, 0.8]
 		arr = []
@@ -125,7 +127,6 @@ class exports.GlitchContainer extends Layer
 			layerRed: @layerRed = layerRed
 		}
 	
-	##### --------- #####
 	imgNoise: (newNoiseImg) ->
 		imgNoiseLayer = new Layer
 		imgNoiseLayer.props =
