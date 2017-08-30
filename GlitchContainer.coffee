@@ -86,7 +86,7 @@ class exports.GlitchContainer extends Layer
 			"top": stereoOffsetY + "px"
 		layerBlue.sendToBack()
 		
-		layerRed = layer.copy()
+		layerRed = layerBlue.copy()
 		layerRed.props =
 			parent: layer
 			opacity: 0.8
