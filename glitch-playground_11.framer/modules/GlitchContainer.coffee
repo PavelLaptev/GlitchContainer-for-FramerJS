@@ -51,7 +51,7 @@ class exports.GlitchContainer extends Layer
 			"clip": "rect(40px,9999px,333px,0)"
 			"animation": "noise-anim 2s steps(10,end) infinite"
 		
-		animateRandom = (animLayer) ->
+		animateRandom = () ->
 			layer.props =
 				scaleX: Utils.randomChoice [1.01, 1.01, 0.99]
 				scaleY: Utils.randomChoice [1.1,1.1, 1, 0.99]
@@ -61,7 +61,7 @@ class exports.GlitchContainer extends Layer
 					return i - parent.blink
 		
 		repeatOften = () ->
-			animateRandom(layer)
+			animateRandom()
 			globalID = setTimeout ->
 				requestAnimationFrame(repeatOften)
 			, parent.speed
