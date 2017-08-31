@@ -17,7 +17,7 @@ Also, you can create GlitchContainer from the group of layers.
 glitchA = new GlitchContainer
     layer: layerA #Your layer here
     speed: 40 #Speed of requestAnimationFrame updating
-    stereoGlith: true #Switch on red and blue filtered layers
+    stereoGlitch: true #Switch on red and blue filtered layers
     stereoOffsetX: 20 #Offset of red and blue filtered layers
     stereoOffsetY: 10
     blink: 0.6 #Correction coefficient for blinking 

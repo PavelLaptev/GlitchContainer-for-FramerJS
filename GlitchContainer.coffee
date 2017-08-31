@@ -16,8 +16,8 @@ class exports.GlitchContainer extends Layer
 		@speed = options.speed
 		@blink = options.blink
 		@basicAnimation(@, @layer)
-		@stereoGlith = if options.stereoGlith is true
-			@stereoGlith(@, @layer, options.stereoOffsetX, options.stereoOffsetY)
+		@stereoGlitch = if options.stereoGlitch is true
+			@stereoGlitch(@, @layer, options.stereoOffsetX, options.stereoOffsetY)
 		
 	#### DEFINE ####		
 	@define "stereoOffsetX",
@@ -69,7 +69,7 @@ class exports.GlitchContainer extends Layer
 		return @layerCopyA = layerCopyA
 	
 	##### --------- #####
-	stereoGlith: (parent, layer, stereoOffsetX, stereoOffsetY) ->
+	stereoGlitch: (parent, layer, stereoOffsetX, stereoOffsetY) ->
 		layerBlue = layer.copy()
 		layerBlue.props =
 			parent: layer

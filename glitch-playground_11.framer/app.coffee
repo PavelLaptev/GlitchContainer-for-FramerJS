@@ -17,21 +17,21 @@ layerC = new Layer
 glitchA = new GlitchContainer
 	layer: glitch_text
 	speed: 40
-	stereoGlith: true
+	stereoGlitch: true
 	blink: 0.6
 
 glitchA.imgNoise()
 
 glitchB = new GlitchContainer
 	layer: ric1
-	stereoGlith: true
+	stereoGlitch: true
 	speed: 40
 	
 glitchB.imgNoise()
 
 glitchC = new GlitchContainer
 	layer: layerC
-	stereoGlith: true
+	stereoGlitch: true
 
 glitchC.imgNoise()
 glitchC.draggable = true
