@@ -2,7 +2,7 @@
 
 A simple way to add glitch effect to your prototypes. Works with any layers.
 
-This module using ```CSS filters```, ```copy()``` method for layers and ```requestAnimationFrame```
+This module using ```CSS filters```, ```Css blend modes```,  ```copy()``` method for layers and ```requestAnimationFrame```
 
 ![Screenshot one](/repo_img/preview-1.gif?raw=true "Screenshot one")
 ![Screenshot two](/repo_img/preview-2.gif?raw=true "Screenshot two")
